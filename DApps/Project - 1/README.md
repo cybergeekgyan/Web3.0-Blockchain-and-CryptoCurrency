@@ -11,3 +11,27 @@
 * finally enable the approver to approve the transaction. 
 
 * **This simple dapp will allow you to see how you can write dapps and interact with the Ethereum blockchain**
+
+## Setup
+
+**Server Setup
+
+- Install Truffle Test Server 
+         
+      sudo install -g truffle
+      
+- Instal Ganache 
+    - https://www.trufflesuite.com/ganache
+
+- Install Metamask
+
+
+start truffle local server 
+ - for windows 
+
+       truffle.cd develop
+       
+ - for others
+ 
+       truffle develop 
+    
