@@ -1,4 +1,4 @@
-# [Web3.0-Blockchain-and-CryptoCurrencyResources]()
+# [Web3.0-Blockchain-and-CryptoCurrency-Resources]()
 
 Curated list of Blockchain and general Cryptocurrency resources
 
